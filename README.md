@@ -1,3 +1,6 @@
+# Laboratorio Swagger
+
+```yaml
 openapi: 3.0.0
 info:
   description: API for IronHack Lab
@@ -246,7 +249,7 @@ components:
           type: string
           format: date-time
           example: "2024-05-27T01:15:30Z"
-
+```
 
 _______
 
