@@ -1,17 +1,7 @@
-{"message":"Call to Fiserv API failed, cannot connect to service","code":"FISERV_CALL_FAILED_NO_CONNECT","description":"Call to Fiserv API failed, cannot connect to service","args":[{"arg":"REASON","value":"Call to Fiserv API failed, cannot connect to service"}],"status":"503 SERVICE_UNAVAILABLE"}
-
-
-
----
-
-
-# IronHack Lab-9
-
-## Implementation Simulation
-
-### Migration Roadmap
 
 ### Priorizar los Servicios a Migrar
+
+
 
 1. **Servicio de Catálogo de Productos**
    - Este es crucial para el rendimiento y la escalabilidad.
