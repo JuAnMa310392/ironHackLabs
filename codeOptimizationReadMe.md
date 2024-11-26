@@ -1,6 +1,3 @@
-# IronHack Lab-10
-
-## Code Analysis and Optimizations
 
 ### JavaScript
 
